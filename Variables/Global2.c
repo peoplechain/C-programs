@@ -1,0 +1,1 @@
+int occupiedRooms = 25;  // Number of rooms currently occupied
